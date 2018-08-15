@@ -13,13 +13,13 @@ namespace EDO
     public class WorkShell
     {
         /// <summary>
-        /// Создание экземаляра класса подключения к FTP
+        /// Creating Frp_Connection class exemplar
         /// </summary>
-        /// <param name="userName">Имя пользователя</param>
-        /// <param name="password">Пароль</param>
-        /// <param name="ftpPath">Путь FTP</param>
-        /// <param name="dwnldFlsPth">Путь для загружаемого файла заказа</param>
-        /// <returns>Экземпляр класса Connection</returns>
+        /// <param name="userName">User name</param>
+        /// <param name="password">Password</param>
+        /// <param name="ftpPath">FTP Path</param>
+        /// <param name="dwnldFlsPth">Path for downloading file</param>
+        /// <returns>Ftp_Connection class exemplar</returns>
         public Ftp_Connection CreateConnection(string userName, string password, string dwnldFlsPth, string ftpInbox, string ftpOutbox)
         {
             if (userName.Length != 0 && password.Length != 0 && ftpInbox.Length != 0 && dwnldFlsPth.Length != 0 && ftpOutbox.Length != 0)
