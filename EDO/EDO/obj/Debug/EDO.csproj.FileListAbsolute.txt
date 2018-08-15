@@ -1,0 +1,8 @@
+C:\Users\proninps\source\repos\EDO\EDO\obj\Debug\Interop.DiadocComApiLib.dll
+C:\Users\proninps\source\repos\EDO\EDO\obj\Debug\EDO.csproj.ResolveComReference.cache
+C:\Users\proninps\source\repos\EDO\EDO\obj\Debug\EDO.csproj.CoreCompileInputs.cache
+C:\Users\proninps\source\repos\EDO\EDO\bin\Debug\EDO.dll
+C:\Users\proninps\source\repos\EDO\EDO\bin\Debug\EDO.pdb
+C:\Users\proninps\source\repos\EDO\EDO\bin\Debug\EDO.tlb
+C:\Users\proninps\source\repos\EDO\EDO\obj\Debug\EDO.dll
+C:\Users\proninps\source\repos\EDO\EDO\obj\Debug\EDO.pdb
